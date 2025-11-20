@@ -4,7 +4,7 @@ const boton = document.getElementById("btnCambiar");
 const textoOriginal = "Texto original";
 const textoCambiado = "Texto cambiado";
 
-boton.addEventListener("click", function () {
+boton.addEventListener("click", () => {
     if (parrafo.textContent === textoOriginal) {
         parrafo.textContent = textoCambiado;
     } else {

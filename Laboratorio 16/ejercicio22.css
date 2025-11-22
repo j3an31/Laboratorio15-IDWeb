@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    text-align: center;
+    background-color: beige;
+}
+
+form {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    width: 300px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+
+#perfilContainer {
+    padding: 15px;
+    border: 1px solid #4CAF50;
+    background-color: #e5ffe5;
+    width: 300px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+h2 {
+    margin-top: 0;
+}
